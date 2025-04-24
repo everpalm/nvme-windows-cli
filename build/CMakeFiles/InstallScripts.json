@@ -1,0 +1,9 @@
+{
+	"InstallScripts" : 
+	[
+		"D:/nvme-windows-cli/build/cmake_install.cmake",
+		"D:/nvme-windows-cli/build/core/cmake_install.cmake",
+		"D:/nvme-windows-cli/build/cli/cmake_install.cmake"
+	],
+	"Parallel" : false
+}

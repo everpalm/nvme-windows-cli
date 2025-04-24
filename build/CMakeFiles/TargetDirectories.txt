@@ -1,0 +1,4 @@
+D:/nvme-windows-cli/build/CMakeFiles/ALL_BUILD.dir
+D:/nvme-windows-cli/build/CMakeFiles/ZERO_CHECK.dir
+D:/nvme-windows-cli/build/core/CMakeFiles/nvme_core.dir
+D:/nvme-windows-cli/build/cli/CMakeFiles/nvme_cli.dir
